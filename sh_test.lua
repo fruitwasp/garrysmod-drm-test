@@ -1,0 +1,5 @@
+print( "SERVERSIDE", SERVER )
+
+--HEHE
+
+print( "CLIENTSIDE", CLIENT )
